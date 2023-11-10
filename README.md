@@ -121,7 +121,7 @@ Execute the program
 ```
 
 ## OUPUT:
-![output](Timetable.png)
+![Timetable](https://github.com/GURUMUR/ODD2023-WT-Ex-03-Timetable/assets/144895197/2c52ba57-d744-4614-82a7-130ebb24c1c3)
 
 
 ## RESULT:
