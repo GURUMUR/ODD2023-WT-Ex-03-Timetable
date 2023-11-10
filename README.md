@@ -120,8 +120,8 @@ Execute the program
 </html>
 ```
 
-## OUPUT
-![Output](/Timetable.png)
+## OUPUT:
+![output](Timetable.png)
 
 
 ## RESULT:
